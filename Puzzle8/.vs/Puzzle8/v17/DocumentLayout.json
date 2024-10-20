@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Puzzle9\\Puzzle8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{427EC2A7-73CC-4323-9B71-0EB93BA3D6D8}|Puzzle8.csproj|e:\\puzzle9\\puzzle8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427EC2A7-73CC-4323-9B71-0EB93BA3D6D8}|Puzzle8.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427EC2A7-73CC-4323-9B71-0EB93BA3D6D8}|Puzzle8.csproj|E:\\Puzzle9\\Puzzle8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{427EC2A7-73CC-4323-9B71-0EB93BA3D6D8}|Puzzle8.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427EC2A7-73CC-4323-9B71-0EB93BA3D6D8}|Puzzle8.csproj|e:\\puzzle9\\puzzle8\\iabuscahorizontal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427EC2A7-73CC-4323-9B71-0EB93BA3D6D8}|Puzzle8.csproj|solutionrelative:iabuscahorizontal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427EC2A7-73CC-4323-9B71-0EB93BA3D6D8}|Puzzle8.csproj|e:\\puzzle9\\puzzle8\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427EC2A7-73CC-4323-9B71-0EB93BA3D6D8}|Puzzle8.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427EC2A7-73CC-4323-9B71-0EB93BA3D6D8}|Puzzle8.csproj|e:\\puzzle9\\puzzle8\\iabuscamelhorescolha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427EC2A7-73CC-4323-9B71-0EB93BA3D6D8}|Puzzle8.csproj|solutionrelative:iabuscamelhorescolha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427EC2A7-73CC-4323-9B71-0EB93BA3D6D8}|Puzzle8.csproj|e:\\puzzle9\\puzzle8\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427EC2A7-73CC-4323-9B71-0EB93BA3D6D8}|Puzzle8.csproj|solutionrelative:estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Puzzle9\\Puzzle8\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\Puzzle9\\Puzzle8\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:27:55.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IaBuscaMelhorEscolha.cs",
+              "DocumentMoniker": "E:\\Puzzle9\\Puzzle8\\IaBuscaMelhorEscolha.cs",
+              "RelativeDocumentMoniker": "IaBuscaMelhorEscolha.cs",
+              "ToolTip": "E:\\Puzzle9\\Puzzle8\\IaBuscaMelhorEscolha.cs",
+              "RelativeToolTip": "IaBuscaMelhorEscolha.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:07:30.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Puzzle9\\Puzzle8\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Puzzle9\\Puzzle8\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:05:21.852Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Puzzle9\\Puzzle8\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Puzzle9\\Puzzle8\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAtwCMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:05:37.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IaBuscaHorizontal.cs",
+              "DocumentMoniker": "E:\\Puzzle9\\Puzzle8\\IaBuscaHorizontal.cs",
+              "RelativeDocumentMoniker": "IaBuscaHorizontal.cs",
+              "ToolTip": "E:\\Puzzle9\\Puzzle8\\IaBuscaHorizontal.cs",
+              "RelativeToolTip": "IaBuscaHorizontal.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:11:50.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "E:\\Puzzle9\\Puzzle8\\Estado.cs",
+              "RelativeDocumentMoniker": "Estado.cs",
+              "ToolTip": "E:\\Puzzle9\\Puzzle8\\Estado.cs",
+              "RelativeToolTip": "Estado.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:00:03.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

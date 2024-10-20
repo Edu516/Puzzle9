@@ -1,0 +1,85 @@
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.exe
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.deps.json
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.runtimeconfig.json
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.dll
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.pdb
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.Form1.resources
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.csproj.GenerateResource.cache
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.AssemblyInfo.cs
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.sourcelink.json
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.dll
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\obj\Debug\net8.0-windows\refint\Puzzle8.dll
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.pdb
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.genruntimeconfig.cache
+C:\Users\eduar\Documents\Nova pasta\Puzzle8\obj\Debug\net8.0-windows\ref\Puzzle8.dll
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.exe
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.deps.json
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.runtimeconfig.json
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.dll
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.pdb
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.Form1.resources
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.sourcelink.json
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.dll
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\refint\Puzzle8.dll
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.pdb
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.genruntimeconfig.cache
+C:\Users\eduar\source\repos\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\ref\Puzzle8.dll
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.exe
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.deps.json
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.runtimeconfig.json
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.dll
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.pdb
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.Form1.resources
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.AssemblyInfoInputs.cache
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.AssemblyInfo.cs
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.sourcelink.json
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.dll
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\refint\Puzzle8.dll
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.pdb
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.genruntimeconfig.cache
+C:\Users\eduar\Desktop\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\ref\Puzzle8.dll
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.exe
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.deps.json
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.runtimeconfig.json
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.dll
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.pdb
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.Form1.resources
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.csproj.GenerateResource.cache
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.AssemblyInfoInputs.cache
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.AssemblyInfo.cs
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.sourcelink.json
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.dll
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\refint\Puzzle8.dll
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.pdb
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.genruntimeconfig.cache
+C:\Users\eduar\Pictures\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\ref\Puzzle8.dll
+E:\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.exe
+E:\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.deps.json
+E:\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.runtimeconfig.json
+E:\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.dll
+E:\Puzzle9\Puzzle8\bin\Debug\net8.0-windows\Puzzle8.pdb
+E:\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.Form1.resources
+E:\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.csproj.GenerateResource.cache
+E:\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.AssemblyInfoInputs.cache
+E:\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.AssemblyInfo.cs
+E:\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.csproj.CoreCompileInputs.cache
+E:\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.sourcelink.json
+E:\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.dll
+E:\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\refint\Puzzle8.dll
+E:\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.pdb
+E:\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\Puzzle8.genruntimeconfig.cache
+E:\Puzzle9\Puzzle8\obj\Debug\net8.0-windows\ref\Puzzle8.dll
